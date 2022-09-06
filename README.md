@@ -1,1 +1,3 @@
 # minicomp
+
+Repositorio de pruebas
